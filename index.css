@@ -678,4 +678,18 @@ html {
 
 .social-icon:hover {
   color: var(--accent);
+}
+
+/* If you have specific dark sections, update those too */
+/*
+.container, 
+.section, 
+.dark-bg {
+  background-color: #1a1a1a;
+}
+
+.card,
+.elevated-section {
+  background-color: #242424;
 } 
+*/ 
